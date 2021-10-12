@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "709215467433",
+    "firebase_url": "https://pet-amb-default-rtdb.firebaseio.com",
+    "project_id": "pet-amb",
+    "storage_bucket": "pet-amb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709215467433:android:c1d57a9d8f598b53a776b8",
+        "android_client_info": {
+          "package_name": "com.milton_intelligence.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709215467433-1ki5tt5eefj3slim1qndnr2hfm2q6ei8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjkvF86Dthiwx8UxsttoW6qZAdb1wlYZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709215467433-1ki5tt5eefj3slim1qndnr2hfm2q6ei8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709215467433:android:ee7c9687418c5db9a776b8",
+        "android_client_info": {
+          "package_name": "com.milton_intelligence.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709215467433-1ki5tt5eefj3slim1qndnr2hfm2q6ei8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjkvF86Dthiwx8UxsttoW6qZAdb1wlYZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709215467433-1ki5tt5eefj3slim1qndnr2hfm2q6ei8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
